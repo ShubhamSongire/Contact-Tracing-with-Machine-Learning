@@ -20,7 +20,7 @@ The output graph is a scatter plot of all the peoples latitude and longitude wit
 
 Conclusion
 This code can be useful for government or local agencies to track people in situations like COVID-19 or security purpose. The code can be easily modified to use other location data, or to change the parameters of the DBSCAN algorithm to better suit the specific use case. It can help to know about the people who came in contact with the specific person which will help in contact tracing.<br> 
-## This is output dashboard where machine learning algorithm tracks people by making clusters of radious given by us.
+## This is an output dashboard where the machine learning algorithm tracks people by creating clusters based on the radius specified.
 <div align="center">
     <a href="./">
         <img src="https://user-images.githubusercontent.com/68246393/144760224-57cd18b6-701a-4ab4-98a6-5db1f5f542b0.png" width="59%"/>
@@ -32,3 +32,4 @@ This code can be useful for government or local agencies to track people in situ
         <img src="https://user-images.githubusercontent.com/68246393/213873513-d87731aa-e75e-4cb3-9889-54ef4b968e25.png" width="59%"/>
     </a>
 </div> <br>
+In the above output, we can see that there are only 2 people in this cluster. When we input "Bob" as the patient, the program returns "Judy" as an infected person.
