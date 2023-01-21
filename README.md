@@ -4,12 +4,13 @@ This is a contact tracing program using machine learning by using this method go
 # Getting Started
 To use this code, you will need to have Python and the following libraries installed:
 
-numpy
-pandas
-seaborn
-matplotlib
-datetime
-sklearn
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- datetime
+- sklearn
+
 You will also need to have a JSON file called "livedata.json" containing the location data of people to be used as input for the code.
 
 Code Structure
