@@ -32,4 +32,5 @@ This code can be useful for government or local agencies to track people in situ
         <img src="https://user-images.githubusercontent.com/68246393/213873513-d87731aa-e75e-4cb3-9889-54ef4b968e25.png" width="59%"/>
     </a>
 </div> <br>
+
 ### In the above output, we can see that there are only 2 people in this cluster. When we input "Bob" as the patient, the program returns "Judy" as an infected person.
